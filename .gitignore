@@ -1,0 +1,11 @@
+*.sam
+*.bam
+*.sorted
+*.bai
+*.vcf
+*.gz
+*.fastq
+.snakemake
+*.gff
+*.bed
+outputs
