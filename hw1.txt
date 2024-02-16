@@ -8,17 +8,16 @@ In SRR2584857_2, theres a variant at position 920514 with reference allele T and
 
 
 Which variants are shared between one or more samples?
-03 and 04 and 57 share a variant at 4141016. 03 and 04 share a variant at 1329520.
+03 and 04 share a variant at 4141016 and at 1329520.
 
 Which genes contain variants in more than one sample (and in which samples)?
-03 and 04 and 57 share a variant at 4141016 which is in gene fabR.
-03 and 04 share a variant at 1329520 which is in gene phoP.
+03 and 04 share a variant at 4141016 which is in gene fabR. And 03 and 04 share a variant at 1329520 which is in gene phoP.
 
 Of the variants that are in a coding region, which are synonymous and which are non-synonymous? (Pick four genes of interest.)
 Variant at position 3901402:
 Coding region: Yes
 Synonymous: No
-Variant at position 3931002:
+Variant at position 4141016:
 Coding region: Yes
 Synonymous: Yes
 Variant at position 4141441:
