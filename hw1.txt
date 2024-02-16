@@ -11,19 +11,19 @@ Which variants are shared between one or more samples?
 03 and 04 share a variant at 4141016 and at 1329520.
 
 Which genes contain variants in more than one sample (and in which samples)?
-03 and 04 share a variant at 4141016 which is in gene fabR. And 03 and 04 share a variant at 1329520 which is in gene phoP.
+03 and 04 share a variant at 4141016 which is in gene yijC. And 03 and 04 share a variant at 1329520 which is in gene topA. Pulled from: https://www.ncbi.nlm.nih.gov/nuccore/CP000819
 
 Of the variants that are in a coding region, which are synonymous and which are non-synonymous? (Pick four genes of interest.)
-Variant at position 3901402:
+Variant at position 3901402 (gene yieO):
 Coding region: Yes
 Synonymous: No
-Variant at position 4141016:
+Variant at position 4141016 (gene yijC):
 Coding region: Yes
 Synonymous: Yes
-Variant at position 4141441:
+Variant at position 4141441 (gene yijC):
 Coding region: Yes
 Synonymous: Yes
-Variant at position 4202391:
+Variant at position 4202391 (gene iclR):
 Coding region: Yes
 Synonymous: Yes
 
