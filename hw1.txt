@@ -26,4 +26,3 @@ Synonymous: Yes
 Variant at position 4202391 (gene iclR):
 Coding region: Yes
 Synonymous: Yes
-
