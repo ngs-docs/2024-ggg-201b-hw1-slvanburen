@@ -1,8 +1,8 @@
-SAMPLES = ["SRR2584857_1", "SRR2584403_1"]
+SAMPLES = ["SRR2584403_1", "SRR2584404_1", "SRR2584405_1", "SRR2584857_1", "SRR2584857_2"]
 
 GENOME = ["ecoli-rel606"]
 
-VARIANTS = [920514, 4141016]
+VARIANTS = [920514, 4141016, 1329520, 238917, 806308, 1329520, 649522, 708118, 1733754, 2103887, 3762120, 3931002, 4141441, 4202391, 4530767, 4530767]
 
 rule make_vcf:
     input:
@@ -20,7 +20,7 @@ rule uncompress_genome:
 
 rule map_reads:
     input:
-        reads="{reads}.fastq.gz",
+        reads="{reads}.fastq",
         ref="outputs/{genome}.fa"
     output: "outputs/{reads}.x.{genome}.sam"
     shell: """
